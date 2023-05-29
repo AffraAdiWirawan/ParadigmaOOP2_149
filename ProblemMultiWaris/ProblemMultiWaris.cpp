@@ -22,6 +22,10 @@ public:
 };
 
 class pelajar :public orang {
+public:
+	pelajar(int pUmur) :orang(pUmur) {
+		cout << "budi dibuat\n" << endl;
+	}
 
 
 };
