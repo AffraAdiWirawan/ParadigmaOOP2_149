@@ -25,3 +25,4 @@ public:
 		cout << "pelajar dibuat\n" << endl;
 	}
 };
+
