@@ -10,5 +10,8 @@ public:
 };
 
 class derivedClass : public baseClass {
-
+public:
+	void perkenalan() {
+		cout << " hallo saya fucntion dari derivec class";
+	}
 };
