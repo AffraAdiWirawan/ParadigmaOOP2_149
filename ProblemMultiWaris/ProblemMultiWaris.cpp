@@ -29,3 +29,7 @@ public:
 
 
 };
+
+class budi :public pekerja, public orang {
+
+};
